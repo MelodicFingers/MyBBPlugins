@@ -1,0 +1,3 @@
+[submodule "LHCOnlyRegisteredLinks"]
+	path = LHCOnlyRegisteredLinks
+	url = ./LHCOnlyRegisteredLinks
